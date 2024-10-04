@@ -1,5 +1,5 @@
 ## CDL Kata Checkout Service
-
+***
 This service implements the pricing model of the checkout service to handle variable pricing adjustment for different quantity categories
 
 ### Modules
@@ -13,6 +13,10 @@ This service implements the pricing model of the checkout service to handle vari
 
 ### Running this application
 
+** argument list **
+
+
+``` java -jar cdl-kata-service.jar -args```
 
 ### Extending the application
 
